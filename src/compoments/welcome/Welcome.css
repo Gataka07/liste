@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+  }
+
+.texte {
+    text-align: center;
+}
+
+.title {
+    color: purple  ;
+}
+
+.age {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+}
